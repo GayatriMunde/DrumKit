@@ -1,0 +1,58 @@
+*{
+    padding: 3%;
+    background-color: antiquewhite;
+    font-family: monospace;
+}
+
+#box{
+    background-color: darksalmon;
+    border-radius: 2%;
+    border-color: brown;
+    text-align: center;
+    color: brown;
+}
+
+.animation {
+    box-shadow: 0 3px 4px 0 #5c3605;
+    opacity: 20;
+}
+
+.button {
+    outline: none;
+    border: 3px solid #be5112;
+    font-size: 2rem;
+    font-weight: 500;
+    color: brown;
+    border-radius: 2%;
+    display: inline-block;
+    
+    background-color: white;
+}
+
+.w {
+    text-align: center;
+}
+  
+.a {
+    text-align: center;
+}
+  
+.s {
+    text-align: center;
+}
+  
+.d {
+    text-align: center;
+}
+
+.j {
+    text-align: center;
+}
+  
+.k {
+    text-align: center;
+}
+  
+.l {
+    text-align: center;
+}
